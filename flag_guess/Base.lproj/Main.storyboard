@@ -42,6 +42,11 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <navigationItem key="navigationItem" id="Znl-QO-GgQ"/>
+                    <connections>
+                        <outlet property="button1" destination="3pV-bI-QAc" id="mae-oI-fDO"/>
+                        <outlet property="button2" destination="jBi-YQ-V9S" id="8X7-pC-pwI"/>
+                        <outlet property="button3" destination="uJD-rW-wbW" id="91f-cw-I7M"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
